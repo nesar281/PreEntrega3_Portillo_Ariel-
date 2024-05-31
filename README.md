@@ -1,1 +1,1 @@
-30/09/24 => Se agrega local storage y get para los productos
+30/09/24 => Se agrega local storage / set y get para los productos
